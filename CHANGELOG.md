@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/googleapis/python-recaptcha-enterprise/compare/v1.5.0...v1.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#181](https://github.com/googleapis/python-recaptcha-enterprise/issues/181)) ([e9935ce](https://github.com/googleapis/python-recaptcha-enterprise/commit/e9935ce310b44d076e4590034b392f9681748f31))
+
 ## [1.5.0](https://github.com/googleapis/python-recaptcha-enterprise/compare/v1.4.1...v1.5.0) (2022-01-14)
 
 
